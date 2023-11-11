@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467370978621",
+    "project_id": "learnoset-18786",
+    "storage_bucket": "learnoset-18786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467370978621:android:d672a4d7ca2734ff0fe954",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467370978621-7i0s8iu4d5emgc714t3pedf62mhge48c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregisterfirebase",
+            "certificate_hash": "d6dd72efa75bffca9477b8f447c72340611a5a4b"
+          }
+        },
+        {
+          "client_id": "467370978621-ls0trnvde08qcc76juvkp9s410qtvjul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4QY0oHkUV3p10__WZJdssHak4l182l6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467370978621-ls0trnvde08qcc76juvkp9s410qtvjul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

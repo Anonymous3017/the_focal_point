@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item11"
+        android:title="DayTime" />
+
+    <item android:id="@+id/item22"
+        android:title="NightTime" />
+
+<!--    <item android:id="@+id/item33"-->
+<!--        android:title="Evening" />-->
+
+<!--    <item android:id="@+id/item44"-->
+<!--        android:title="Night" />-->
+
+
+</menu>
